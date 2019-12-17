@@ -1,3 +1,5 @@
+# Fetch the project to run the file
+# And make a seperate folder to run the project
 # Import required modules
 import cv2 as cv
 import math
